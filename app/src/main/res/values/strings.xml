@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tour O Maker</string>
+    <string name="button">Submit</string>
+    <string name="title_activity_package">Packages</string>
+    <string name="action_about">About</string>
+    <string name="action_plan">Plan Your Travel</string>
+    <string name="title_activity_package_detail">Package Details</string>
+    <string name="Rs">\u20B9</string>
+    <string name="title_activity_inquiry">Inquiry Form</string>
+    <string name="title_activity_booking">Booking Request</string>
+    <string name="aboutus_text">Tour O Maker is committed to serve customers with professional care and give them optimum satisfaction. We inspire people to travel and explore to further enrich their lives. We aim to meet and supersede all tourism requirements by using advance technology to ensure a fast and efficient service to our clients. Tour O Maker is a professionally managed organization, having a team of experts, well versed with all the aspects of Tourism Related Services. You can trust the staff of Tour O Maker to offer you insight into some of the lesser known offbeat destinations of India along with the ever popular ones.
+        For us making the Schedule of your Tour (itinerary), which is YOUR idea of YOUR Holidays, is the most important aspect of Holiday Planning. Be it holidays to Heritage Destinations, among Mountains, near Beaches, in the Wild, Adventure Holidays or an assortment, you will find that perfect itinerary just with Tour O Maker.
+        Our in-house dedicated staff takes care of your Itinerary Planning while our trusted associates (Hoteliers and Transporters) in all corners of India ensure that you have a safe and fun-filled holiday which you will remember for life. Till date, we have handled all types of clients ranging from casual tourists and corporate to special interest groups from India and abroad. Apart from handling a steady stream for tourists, both domestic and international. Today Tour O Maker is a leading Travel Agency with its administrative office at Delhi. With a list of reputed Corporate among our Clients and with more than 2000 satisfied national as well as International Clients in the short span of Two years, Tour O Maker today is a reputed name in the Tourism field in India. Being pioneers in the market Tour O Maker has an advantage of consolidating the best hotel deals with economical and Luxurious hotels. Our success encourages us to maintain the highest standards of professionalism, integrity and service. We understand Value For Money Holidays.</string>
+    <string name="title_activity_trip_plan">Plan Your Trip</string>
+</resources>
